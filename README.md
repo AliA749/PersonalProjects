@@ -1,0 +1,1 @@
+This program is a basic attendance so that the user enters a name,last name,grade level, and the time they came. When the user clicks the button to continue he will be led to another page. The next page is to show all the saved variables in a seperate component.
