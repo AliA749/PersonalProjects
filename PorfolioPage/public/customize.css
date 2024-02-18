@@ -1,0 +1,31 @@
+html{
+	background-color: #120024;
+}
+
+body
+{
+	background-color: ghostwhite;
+	
+}
+#switchtb
+{
+	border-style: solid;
+	border-radius: 10px;
+	margin-left:550px;
+	
+}
+
+#images
+{
+	background-color: transparent;
+	margin-left:800px;
+	margin-top:-10px;
+}
+#awakeimg {
+    border-radius: 80px;
+    }
+
+#sleepingimg {
+    border-radius: 150px;
+    }
+   
