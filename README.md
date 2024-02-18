@@ -1,1 +1,35 @@
-This program is a basic attendance so that the user enters a name,last name,grade level, and the time they came. When the user clicks the button to continue he will be led to another page. The next page is to show all the saved variables in a seperate component.
+# My Porfolio
+
+Basic information about myself and more.
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [License](#license)
+
+## Features
+
+List the main features of your project. This could include functionalities, components, or any other relevant aspects.
+
+- Github icon: when clicked it will bring you to my github profile
+- X: when clicked it will bring you to my twitter/x profile
+- About.me: when clicked will show you information and a picture of me.
+- Contacts: How you can reach me ex- gmail,number, and socials.
+- back to start: when clicked will bring back the page how it was in the start.
+- on/off switch:Make the page light up, while the off makes the page dark. 
+
+## Demo
+
+![Demo](https://alialkhulaqi.neocities.org)
+
+
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/AliA749/PersonalProjects.git
+
+## License
+'Ali Alkhulaqi', ' My Porfolio', and 'https://alialkhulaqi.neocities.org',
+
