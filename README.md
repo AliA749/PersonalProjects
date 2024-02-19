@@ -7,6 +7,7 @@ Basic information about myself and more.
 - [Features](#features)
 - [Demo](#demo)
 - [License](#license)
+- Experience 
 
 ## Features
 
@@ -33,3 +34,9 @@ List the main features of your project. This could include functionalities, comp
 ## License
 'Ali Alkhulaqi', ' My Porfolio', and 'https://alialkhulaqi.neocities.org',
 
+## Experience
+-Robotics club for 2 years doing Python for manual and autonomous code.
+-Worked in a juice bar and grill for 3+ years. (Go Detox juice bar and grill)
+-Self taught Git and Linux.Currently refreshing my knowledge on SQL.
+-My languages:Python,Javascript,HTML/CSS
+-My Technologies:Git,SQL,Linux
